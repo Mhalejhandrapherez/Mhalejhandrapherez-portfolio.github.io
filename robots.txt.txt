@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://mhalejhandrapherez.github.io/Mhalejhandrapherez-portfolio.github.io/sitemap.xml
